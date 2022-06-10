@@ -2,7 +2,7 @@
 # UI Lab 2 
 ![](terminal-icon.png)
 ![](gui-icon.png)
-![](1.png)
+![](https://github.com/ppc-ntu-khpi/tui-2-KAZAHv2/blob/master/1.PNG?raw=true)
 
 ![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
 ![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
